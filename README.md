@@ -12,10 +12,14 @@ The resulting ARM binary will be available in `build/koruza-ng`.
 
 ---
 
-#### License
+##Buy
+You can order KORUZA KIT and pre-assembled KORUZA KIT from our partner company [Fabrikor](http://fabrikor.eu/index.php?route=product/category&path=60).
 
-All our projects are as usefully open-source as possible.
+---
 
+## Licensing
+
+We strive to make KORUZA as usefully open-source as possible.
 Hardware including documentation is licensed under [CERN OHL v.1.2. license](http://www.ohwr.org/licenses/cern-ohl/v1.2)
 
 Firmware and software originating from the project is licensed under [GNU GENERAL PUBLIC LICENSE v3](http://www.gnu.org/licenses/gpl-3.0.en.html).
