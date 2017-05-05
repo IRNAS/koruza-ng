@@ -12,8 +12,8 @@ The resulting ARM binary will be available in `build/koruza-ng`.
 
 ---
 
-##Buy
-You can order KORUZA KIT and pre-assembled KORUZA KIT from our partner company [Fabrikor](http://fabrikor.eu/index.php?route=product/category&path=60).
+## Buy
+You can order KORUZA KIT and pre-assembled KORUZA KIT from our partner company [Fabrikor](http://fabrikor.eu).
 
 ---
 
